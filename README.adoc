@@ -1,0 +1,1 @@
+Collecting the two aspects of my work, architect and developer in one place. Also a chance to keep things in AsciiDoc which makes things easier on me.

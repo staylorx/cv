@@ -1,0 +1,94 @@
+= Steve Taylor
+Steve Taylor <steve.taylor@taybiz.com>
+v1.0, 2015-08-03
+:toc:
+:toc-placement: manual
+
+== Work Experience
+
+=== Eastern Municipal Water District - Perris, California
+2013 – Present; Contract via Taylor Business Solutions, Inc.
+
+* Implement change control, code review, and architectural principles based on TOGAF and client current practices. Document processes and design using Sparx and Visio, BPMN2 and UML2.
+* Consult with end client to integrate Oracle HCM to onsite custom RDBMS solution using custom code, Oracle SOA Suite, and Oracle Service Bus 11g and 12c.
+* Migration support from Oracle Service Bus 11g to new domain-based 12c models.
+* Build and refine integrations between EBS and Maximo using SOAP, XML, XSD, XSLT, and BPEL.
+
+=== Nikias Group LLC - Baltimore, MD
+2014 – 2015; Employee via Taylor Business Solutions, Inc.
+
+* Design and construction of a healthcare platform; beta presented at AcademyHealth 2014 kiosks; presentation at 4th Annual Cardivascular Conference.
+* Current initiative to migrate proof-of-concept software to nodejs-based platform including mongodb and npm.
+* Design and build Java, Grails, and Spring modules to create problem solving methods for healthcare application.
+* Architect cloud-deployed platform for data acquisition API and problem solving methods using business rules and heuristics.
+* Write Vagrant and Docker scripts to support agile small team development and cloud-based deployments.
+* Design and building a pilot cross-platform app using Cordova for a cardiovascular health application.
+
+=== Comcast - Englewood, Colorado
+2015; Contract via Taylor Business Solutions, Inc.
+
+* Convert Ant-based builds to Maven; deploy binary and built artifacts to Artifactory.
+* Document processes and design using Sparx and Visio, BPMN2 and UML2.
+* Streamline Oracle BPM Suite code; clean XSLT, XSD, and BPEL code for easier maintenance.
+* Create puppet manifest to create Jenkins slave nodes; create Jenkins builds for Oracle SOA/BPM Suite.
+
+=== National Renewable Energy Laboratory – Golden, Colorado
+2014; Contract via Cedar-Crestone
+
+* Review and assess existing integration and Open Group SOA maturity levels; prepare reports and documents in support of extensive integration and system upgrades.
+* Review source control processes and software lifecycle; remap environments against SOA Suite and Oracle Service Bus applications and servers; provide training and information.
+
+=== Wells Fargo/Wachovia – Charlotte, North Carolina
+2014; Contract via Taylor Business Solutions, Inc.
+
+* Identity management and design for claims-based applications (Oauth2-based and SAML).
+
+=== Denver International Airport - Denver, Colorado
+2010 – 2013; Employee via City and County of Denver
+
+* Lead Architecture Review Board and create best-practices and architectural guidance; review business cases for the Portfolio Management (PMO) group.
+* Design and program SOA, Groovy, Java, Spring, and Apache integrations for GIS/BIM, asset systems, procure-to-pay, payments, vendor management, and badge photo uploading.
+* Maintain Artifactory, TeamCity, and Jenkins to support continuous integration and deployment.
+* Lead team to install Active Directory Federation Services (ADFS).
+* Install and maintain production Oracle Service Bus (OSB) clusters.
+
+=== Lower Colorado River Authority - Austin, Texas
+2008 – 2010; Contract via Mythics, Inc.
+
+* Design and implement solutions for human task lists and custom forms (using Scrum as an agile iteration method).
+* Integrate PeopleSoft Financials and Oracle OID using XML, XSD, XSLT, BPEL and custom Java/JNDI code.
+* Write servlets, httpclient, and RESTful services using Oracle Application Server and BEA WebLogic.
+* Build HA test cases and produce best-practice governance tools and processes.
+
+=== Hampton Roads Sanitation District - Austin, Texas
+2010; Contract via Mythics, Inc.
+
+* Prepare Open Group SOA maturity model reports and architectural guidance recommendations.
+
+=== Denver Water Department - Denver, Colorado
+2005 to 2008; Contract via EDP Consulting
+
+* SOAP Web services programming using open-source, Oracle Fusion, Tibco BusinessWorks, and OpenESB (Java-based).
+* Develop web services with Java for Tomcat and BEA application servers. XSD/WSDL/UDDI
+* Configure and extend Maximo V6 functionality using external interface programming in Java and the IBM
+* Maximo MEA; Implemented the IT asset program including item catalog and purchase orders.
+
+=== Your Dollar Store with More – Lakewood, Colorado
+2003-2005; Contract via Taylor Business Solutions, Inc.
+
+* Design, build, and distribute dual-currency distribution systems for retail inventory using open-source SOA and BPM tools.
+
+== Education
+
+* BS, Mathematics/Computer Science -- Metropolitan State College of Denver -- Denver, CO
+* Grad Studies, Expert Systems/Neural Networks – University of Colorado Denver – Denver, CO
+* Grad Studies, Biomedical Ontology – Stanford University – Palo Alto, CA
+
+== Certifications
+
+* ITIL v3 Foundation
+* Oracle SOA Suite 11g Certified Implementation Specialist
+* Oracle SOA Suite 12c Certified Implementation Specialist
+* Currently studing for the TOGAF exams
+
+_Authorized to work in the US for any employer._
